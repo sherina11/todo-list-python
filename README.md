@@ -1,6 +1,3 @@
-# todo-list-python
-Simple To-Do List application built with Python. Users can add tasks and view tasks using a menu system.
-
 # To-Do List Python Project
 
 This is a simple To-Do List application built using Python.
@@ -10,10 +7,10 @@ This is a simple To-Do List application built using Python.
 - View tasks
 - Simple menu-based program
 
-## Technologies Used
+### Technologies Used
 - Python
 
-## How to Run
+#### How to Run
 
 1. Install Python
 2. Download the file
@@ -21,5 +18,6 @@ This is a simple To-Do List application built using Python.
 
 python todo_list.py
 
-## Author
-Sherina
+##### Author
+Raja Sherina T
+CSE Student
